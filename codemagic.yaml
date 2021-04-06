@@ -10,8 +10,7 @@ workflows:
       xcode: latest
       cocoapods: default
     scripts:
-      - name: Build for iOS and Android
-      script: flutter build iOS & Android
+      - |
         # set up debug keystore
         rm -f ~/.android/debug.keystore
         keytool -genkeypair \
@@ -23,7 +22,7 @@ workflows:
           -keyalg 'RSA' \
           -keysize 2048 \
           -validity 10000
-      - 
+      - |
         # set up local properties
         echo "flutter.sdk=$HOME/programs/flutter" > "$FCI_BUILD_DIR/android/local.properties"
       - cd . && flutter packages pub get
