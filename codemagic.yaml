@@ -10,7 +10,8 @@ workflows:
       xcode: latest
       cocoapods: default
     scripts:
-      - |
+      - name: Build for iOS and Android
+      script: flutter build iOS & Android
         # set up debug keystore
         rm -f ~/.android/debug.keystore
         keytool -genkeypair \
