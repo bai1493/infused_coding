@@ -80,6 +80,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/characters-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "charcode",
       "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/charcode-1.2.0",
       "packageUri": "lib/",
@@ -146,6 +152,12 @@
       "languageVersion": "2.3"
     },
     {
+      "name": "fake_async",
+      "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fake_async-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "file",
       "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/file-5.2.1",
       "packageUri": "lib/",
@@ -154,6 +166,18 @@
     {
       "name": "fixnum",
       "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fixnum-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/Users/bannr/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///C:/Users/bannr/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -338,6 +362,12 @@
       "languageVersion": "2.1"
     },
     {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/Users/bannr/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "source_gen",
       "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_gen-0.9.10+3",
       "packageUri": "lib/",
@@ -357,7 +387,7 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.8.1",
+      "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -440,6 +470,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vector_math-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "vm_service",
       "rootUri": "file:///C:/Users/bannr/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vm_service-5.5.0",
       "packageUri": "lib/",
@@ -476,7 +512,7 @@
       "languageVersion": "2.10"
     }
   ],
-  "generated": "2021-04-06T22:11:45.200798Z",
+  "generated": "2021-04-06T22:19:40.263127Z",
   "generator": "pub",
   "generatorVersion": "2.12.2"
 }
